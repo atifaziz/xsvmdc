@@ -1,0 +1,23 @@
+{
+  "name": "xsvmdc",
+  "version": "1.0.0",
+  "description": "Utility to format CSV or TSV as a Markdown table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atif Aziz <code@raboof.com>",
+  "license": "ISC",
+  "dependencies": {
+    "csv-to-markdown-table": "0.3.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "xsv",
+    "csv",
+    "tsv",
+    "markdown",
+    "md",
+    "table"
+  ]
+}
